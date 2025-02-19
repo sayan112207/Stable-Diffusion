@@ -99,6 +99,6 @@ Two main notebooks are provided:
 - **Stable Diffusion:**  [CompVis/stable-diffusion-v1-4](https://huggingface.co/CompVis/stable-diffusion-v1-4)
 - **Fine-Tuned Model:**  [stabilityai/sd-turbo](https://huggingface.co/stabilityai/sd-turbo)
 - **WikiArt Dataset (Impressionism):**  [huggan/wikiart](https://huggingface.co/datasets/huggan/wikiart/viewer/default/train?f[style][value]=12)
-- **Flickr8k Dataset:** Used for filler images in Approach 1.
+- **Flickr8k Dataset:** Used for filler images in Approach 1 and 2.
 - **CLIP:**  [OpenAI CLIP](https://github.com/openai/CLIP)
 - **Gemini API:** Used for generating random artistic prompts in Approach 3.
